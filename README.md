@@ -1,4 +1,5 @@
-<h1 align="center">Hola 👋, me llamo Oscar Sevilla</h1>
+<h1 align="center">Hello there 👋</h1> 
+<h2 align="center">Soy Oscar Sevilla</h2>
 <h3 align="center">Soy un desarrollador de aplicaciones móviles iOS de México</h3>
 
 - 💬 Puedes preguntarme acerca de: **Swift, Objective-C, Java, Kotlin, Flutter, VB.NET, HTML, SQL, iOS, Javascript**
