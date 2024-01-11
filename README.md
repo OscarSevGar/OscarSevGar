@@ -7,6 +7,11 @@
 
 - 📄 Conoce mis experiencias: He sido desarrollador móvil, web y QA Tester con 13 años de experiencia en proyectos dentro de empresas como TV Azteca, ADN 40, Global Hitss, Seguro Inteligente, Banorte, Engie, Coally (Colombia), Claro Pay (Brasil), entre otras. Siempre busco nuevos retos profesionales y conocer nuevas tecnologías.
 
+- 🕹️ Mis hobbies son: 🎸 La Música
+                      💻 La programación
+                      ✈️ Viajar
+                      🐶 Pasar tiempo con mi mascota
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oscar-sevgar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscar-sevgar" height="30" width="40" /></a>
