@@ -13,7 +13,7 @@
 
 - 🌱 Actualmente estoy mejorando mis habilidades en Swift, Flutter y .NET
 
-- 🕹️ Mis hobbies son: 🎸 La Música,<br>
+- 🕹️ Mis hobbies son:<br> 🎸 La Música,<br>
                       💻 La programación,<br>
                       ✈️ Viajar,<br>
                       🐶 Pasar tiempo con mi mascota<br>
