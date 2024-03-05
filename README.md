@@ -2,8 +2,25 @@
 <h3 align="center">un desarrollador de aplicaciones móviles iOS de México</h3>
 
 - 🙋🏻‍♂️ Acerca de mi:
-
-
+  ```
+let aboutMe ={
+  code: ["Swift", "Java", ".NET", "Kotlin", "Flutter", "SQL", "PHP", "HTML", "CSS"],
+  technologies: {
+    frontEnd: {
+      swift: ["UIKit", "SwiftUI"],
+      js: ["JQuery", "Ajax"],
+      css: ["Bootstrap", "Material Design"],
+    },
+    backEnd:{
+      java: ["SpringBoot", "Microservicios"],
+    },
+    databases: ["MySQL", "Oracle", "SQLite", "MongoDB", "Firebase Real-Time Database"],
+    mobile: ["iOS", "Android"],
+    services: ["Firebase", "HMS"]
+  },
+  currentOcupation: ["iOS Senior Developer"]
+};
+```
 
 - 💬 Puedes preguntarme acerca de: **Swift, Objective-C, Java, Kotlin, Flutter, VB.NET, HTML, SQL, iOS, Javascript**
 
