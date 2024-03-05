@@ -19,7 +19,7 @@ let aboutMe ={
     services: ["Firebase", "HMS"]
   },
   currentOcupation: ["iOS Senior Developer"]
-};
+}
 ```
 
 - 💬 Puedes preguntarme acerca de: **Swift, Objective-C, Java, Kotlin, Flutter, VB.NET, HTML, SQL, iOS, Javascript**
